@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.4/RCMLiteConnector-Setup.exe",
-  "notes": "APP_VERSION dinamico via .app-version gravado pelo instalador"
+  "version": "1.0.5",
+  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.5/RCMLiteConnector-Setup.exe",
+  "notes": "Fix versao do instalador: APP_VERSION agora lido automaticamente do version.json"
 }
