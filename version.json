@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.1/RCMLiteConnector-Setup.exe",
-  "notes": "Fix migration runner + toggle por módulo + mapeamento dinâmico de campos"
+  "version": "1.0.2",
+  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.2/RCMLiteConnector-Setup.exe",
+  "notes": "Fix instalador para servico antes de atualizar arquivos + Detectar Colunas para todos os modulos"
 }
