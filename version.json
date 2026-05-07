@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.3/RCMLiteConnector-Setup.exe",
-  "notes": "Detectar Colunas disponivel para todos os modulos (documents, invoices, account)"
+  "version": "1.0.4",
+  "url": "https://github.com/luhkas2309/rcm-lite-updates/releases/download/v1.0.4/RCMLiteConnector-Setup.exe",
+  "notes": "APP_VERSION dinamico via .app-version gravado pelo instalador"
 }
